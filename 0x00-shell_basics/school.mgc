@@ -1,4 +1,4 @@
 0 string SCHOOL School data
 !:mime School
-file -C -m school.mg
+file -C -m school.mgc
 
