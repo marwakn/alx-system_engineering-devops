@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "The number in base 16 is: %X\n" $DECIMAL
